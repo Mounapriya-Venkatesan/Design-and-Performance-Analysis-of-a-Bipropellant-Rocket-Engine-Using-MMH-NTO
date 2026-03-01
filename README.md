@@ -1,0 +1,2 @@
+# Design-and-Performance-Analysis-of-a-Bipropellant-Rocket-Engine-Using-MMH-NTO
+Conceptual design and performance analysis of a 30 kN pressure-fed MMH/NTO bipropellant rocket engine for lunar lander descent. Includes propellant mass sizing, helium pressurization system design, pintle injector concept, combustion analysis using NASA CEA, tank structural considerations, and thrust/Isp performance evaluation.
