@@ -1,1 +1,1 @@
-Propulsion project report files will be stored here.
+📄 Full technical report available in the /report folder.
