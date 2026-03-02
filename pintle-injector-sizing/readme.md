@@ -247,7 +247,15 @@ python src/monte_carlo.py
 ```bash
 python src/gui.py
 ```
+## 🧩 Injector Geometry (CAD/Schematic)
 
+<p align="center">
+  <img src="./Figures/pintle_design.png" width="850">
+</p>
+
+<p align="center">
+  <em>Figure: Pintle injector schematic and 3D views (top view, cross-section, and full 3D).</em>
+</p>
 ---
 
 # 🧠 Engineering Concepts Demonstrated
@@ -277,4 +285,5 @@ Rice University
 - CFD validation  
 - Optimization-based sizing  
 - Transient ignition simulation  
+
 
