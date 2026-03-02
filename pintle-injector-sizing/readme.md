@@ -165,8 +165,9 @@ $$
 ## O/F Sweep
 
 <p align="center">
-  <img src="figures/sweep_of.png" width="600">
+  <img src="./Figures/sweep_of.png" width="700">
 </p>
+
 
 Shows how mixture ratio affects:
 - Pintle diameter  
@@ -178,7 +179,7 @@ Shows how mixture ratio affects:
 ## Chamber Pressure Sweep
 
 <p align="center">
-  <img src="figures/sweep_pc.png" width="600">
+  <img src="./Figures/sweep_pc.png" width="700">
 </p>
 
 Demonstrates geometric sensitivity to chamber pressure.
@@ -276,3 +277,4 @@ Rice University
 - CFD validation  
 - Optimization-based sizing  
 - Transient ignition simulation  
+
