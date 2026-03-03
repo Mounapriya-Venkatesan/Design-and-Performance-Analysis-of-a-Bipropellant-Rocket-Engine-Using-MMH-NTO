@@ -1,21 +1,29 @@
-# 🚀 Pintle Injector Sizing & Analysis  
+<!-- ================= HEADER SECTION ================= -->
+
+<div align="left">
+
+# 🚀 Pintle Injector Sizing & Analysis
+
 ### Pressure-Fed MMH/NTO Hypergolic Engine Module
 
-<p align="center">
-  <img src="figures/sweep_of.png" width="600">
-</p>
-
-<p align="center">
-  Analytical | Parametric | Uncertainty-Aware Injector Design
-</p>
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Field](https://img.shields.io/badge/Field-Rocket%20Propulsion-red)
+![Engine](https://img.shields.io/badge/Engine-Pressure--Fed-orange)
+![Component](https://img.shields.io/badge/Component-Injector-green)
+![Type](https://img.shields.io/badge/Type-Pintle-brightgreen)
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Propulsion](https://img.shields.io/badge/Field-Rocket%20Propulsion-red)
-![Engine Type](https://img.shields.io/badge/Engine-Pressure--Fed-orange)
-![Injector](https://img.shields.io/badge/Injector-Pintle-green)
+### Analytical | Parametric | Uncertainty-Aware Injector Design
 
+- Injector area sizing  
+- Parametric sweeps & uncertainty quantification  
+- Pintle diameter `d_pintle`  
+- Annular gap `g`
+
+</div>
+
+---
 ---
 
 # 📌 Overview
@@ -285,5 +293,6 @@ Rice University
 - CFD validation  
 - Optimization-based sizing  
 - Transient ignition simulation  
+
 
 
