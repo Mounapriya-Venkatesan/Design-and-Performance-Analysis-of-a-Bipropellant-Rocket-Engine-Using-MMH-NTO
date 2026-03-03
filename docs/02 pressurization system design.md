@@ -138,7 +138,13 @@ Include a block diagram showing:
 - Helium bottle → regulator → check valve → propellant tank ullage
 - Tank outlets → feed lines → injector → chamber
 
-*(Add a figure in `figures/pressurization_block_diagram.png` and reference it here.)*
+<p align="center">
+  <img src="figures/pressurization_block_diagram.png" width="650"/>
+</p>
+
+<p align="center">
+  <em>Figure 2: Pressure-fed helium pressurization architecture showing helium bottle, regulator, check valves, propellant tanks, and feed lines to the combustion chamber.</em>
+</p>
 
 ---
 
