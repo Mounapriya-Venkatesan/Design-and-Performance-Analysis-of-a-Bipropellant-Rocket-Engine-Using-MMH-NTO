@@ -82,3 +82,4 @@ Fuel-rich or oxidizer-rich conditions reduce temperature.
 ## 6. Reference
 
 Full combustion modeling details available in the project technical report.
+
