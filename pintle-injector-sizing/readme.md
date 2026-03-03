@@ -1,6 +1,6 @@
-<!-- ================= HEADER SECTION ================= -->
 
-<div align="left">
+
+
 
 # 🚀 Pintle Injector Sizing & Analysis
 
@@ -21,9 +21,10 @@
 - Pintle diameter `d_pintle`  
 - Annular gap `g`
 
+
+
 </div>
 
----
 ---
 
 # 📌 Overview
@@ -293,6 +294,7 @@ Rice University
 - CFD validation  
 - Optimization-based sizing  
 - Transient ignition simulation  
+
 
 
 
