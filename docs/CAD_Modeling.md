@@ -8,7 +8,7 @@ The modeling process followed a parametric approach derived from RPA and analyti
 
 ## 10.1 Chamber and Nozzle Model
 
-![Chamber and Nozzle CAD](docs/figures/engine_cad_dimensions.png)
+[Chamber and Nozzle CAD](docs/figures/Chamber andf Nozzle CAD.png)
 
 **Figure 7:** CAD model of the combustion chamber and nozzle generated based on RPA-defined geometry.
 
@@ -70,12 +70,9 @@ This configuration enables:
 ---
 
 ## 10.3 Final Engine Assembly View
-
-![Full Assembly](docs/figures/injector3d.png)
+![Sectioned Assembly](docs/figures/engine_section.png)
 
 **Figure 9:** Full 3D engine assembly showing flanged injector top, combustion chamber, and parabolic nozzle.
-
-![Sectioned Assembly](docs/figures/engine_section.png)
 
 **Figure 10:** Sectioned view revealing internal hollow nozzle and combustion chamber geometry.
 
