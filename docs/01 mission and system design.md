@@ -120,7 +120,7 @@ geometric feasibility, combustion chamber sizing, and nozzle expansion requireme
 ### Engine CAD Model
 
 <p align="center">
-  <img src="figures/engine_cad_dimensions.png" width="500">
+  <img src="../pintle-injector-sizing/Figures/engine_cad_dimensions.png" width="500">
 </p>
 
 **Figure 1.** 3D CAD model of the pressure-fed hypergolic engine showing chamber length, throat diameter, exit diameter, and total engine height.
