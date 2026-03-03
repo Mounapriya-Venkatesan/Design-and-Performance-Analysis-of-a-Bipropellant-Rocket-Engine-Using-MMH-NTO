@@ -8,7 +8,7 @@ The modeling process followed a parametric approach derived from RPA and analyti
 
 ## 10.1 Chamber and Nozzle Model
 
-[Chamber and Nozzle CAD](docs/figures/Chamber andf Nozzle CAD.png)
+![Chamber and Nozzle CAD](docs/figures/chamber_nozzle_cad.png)
 
 **Figure 7:** CAD model of the combustion chamber and nozzle generated based on RPA-defined geometry.
 
