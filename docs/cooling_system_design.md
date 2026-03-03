@@ -87,7 +87,7 @@ Practical design would refine this using CFD and transient thermal analysis.
 Flow path:
 
 Fuel Tank → Regenerative Channels → Injector → Combustion Chamber
-
+![Regenerative Cooling](figures/regenerative_cooling_schematic.png)
 The regenerative channels:
 
 - Spiral around chamber
